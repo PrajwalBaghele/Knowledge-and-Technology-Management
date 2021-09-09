@@ -1,3 +1,4 @@
 # knowledge-and-Technology-Management
-# Knowledgemanagement (KM)
-# TECHNOLOGY MANAGEMENT
+Knowledge management (KM)
+TECHNOLOGY MANAGEMENT
+
